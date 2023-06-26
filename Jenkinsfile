@@ -14,7 +14,7 @@ pipeline {
     }
 
     environment {
-        registry = "learnwithabhi/vproappdock"
+        registry = "serbenyuk/jenkins"
         registryCredential = 'dockerhub'
     }
 
